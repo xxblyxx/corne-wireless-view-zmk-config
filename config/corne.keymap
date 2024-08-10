@@ -73,6 +73,6 @@
    &trans   &kp K_NEXT &kp C_VOL_DN   &kp C_VOL_UP &kp K_PP &trans        &trans  &kp F11   &kp F12   &trans   &trans   &trans   
                     &kp LGUI     &kp SPACE    &to 0  &to 3  &kp SPACE  &kp RALT
                         >;
-                }
+                };
         };
 };
